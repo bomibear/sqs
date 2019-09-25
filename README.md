@@ -22,6 +22,8 @@ How the charts look like after sending a message to the Q:
 ![cloud watch 3](cloudWatch3.png)
 
 ## Resources
+[Deploy SQS Tutorial](https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-create-package.html#with-sqs-example-deployment-pkg-nodejs)
+
 [AWS Java SQS Tutorial](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-sqs-message-queues.html)
 
 ## Acknowledgements
